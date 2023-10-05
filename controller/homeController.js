@@ -1,4 +1,3 @@
-
 function HomePage(req, res){
     let dr = { 
         judul: "Simma - Realtime Online Voting Apps", 
